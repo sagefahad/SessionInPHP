@@ -8,7 +8,7 @@ if(isset($_COOKIE['UserName']) and isset($_COOKIE['Password'])){
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Authentication</title>
 </head>
 <body>
 	<form name="frmName" action="Welcome.php" method="POST" >
